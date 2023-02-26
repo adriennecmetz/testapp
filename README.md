@@ -1,4 +1,14 @@
+# PROJECT TITLE
+MET Artwork App
+
+# PROJECT DESCRIPTION
+  This is stage one of an application to search for artwork, starting with search from the Metropolitan Museum of Art.
+
+
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
